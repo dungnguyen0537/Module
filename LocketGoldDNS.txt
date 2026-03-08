@@ -1,3 +1,4 @@
 sandbox.itunes.apple.com
 api.revenuecat.com
 oy24bn-skadsdkless.appsflyersdk.com
+oy24bn-inapps.appsflyersdk.com
