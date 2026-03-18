@@ -1,5 +1,5 @@
 ! =================================================
-! DANH SÁCH NGOẠI LỆ TỐI ƯU BỞI TÁM CÔNG NGHỆ
+! DANH SÁCH NGOẠI LỆ TỐI ƯU BỞI DSHINEE DEV
 ! =================================================
 
 ! --- 1. CỔNG DỊCH VỤ CÔNG & CHÍNH PHỦ ---
