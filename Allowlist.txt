@@ -132,7 +132,6 @@
 @@||vinaphone.com.vn^
 @@||mobifone.vn^
 @@||fpt.vn^
-@@||chatgpt.com^
 
 ! --- 10. HẠ TẦNG MẠNG, CDN & TECH (Tránh lỗi load web) ---
 @@||cloudflare.com^
