@@ -1,3 +1,31 @@
 ! =================================================
 ! DANH SÁCH BLOCK MORE TỐI ƯU BỞI DSHINEE DEV
 ! =================================================
+
+
+! --- [Quảng cáo & Truyền thông] ---
+||an.facebook.com^
+||novaon.net^
+||qc.coccoc.com^
+
+! --- [Theo dõi & Analytics] ---
+||googleadservices.com^
+||graph.facebook.com^
+||analytics.tiktok.com^
+||mon.tiktokv.com^
+||app.adjust.com^
+
+! --- [Phishing & Mã độc] ---
+||amtso.org^
+||wicar.org^
+||2giga.link^
+||surveyjunkie.com^
+||bc.vc^
+
+! --- [Spam & Rút gọn link] ---
+||megapush.com^
+||shrinkme.io^
+||ouo.io^
+||exe.io^
+||cutt.ly^
+||adsterra.com^
