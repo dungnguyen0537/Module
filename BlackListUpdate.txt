@@ -9,6 +9,10 @@
 ||analytics.tiktok.com^
 ||mon.tiktokv.com^
 ||app.adjust.com^
+||d6sav80kktzcx.cloudfront.net^
+||d6swopgiplmy0.cloudfront.net^
+||d6wzv57amlrv3.cloudfront.net^
+||d6z72aalekwc3.cloudfront.net^
 
 ! --- [Phishing & Mã độc] ---
 ||amtso.org^
