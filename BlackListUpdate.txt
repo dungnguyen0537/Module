@@ -9,6 +9,7 @@
 ||analytics.tiktok.com^
 ||mon.tiktokv.com^
 ||app.adjust.com^
+||da26k71rxh0kb.cloudfront.net^
 ||d6sav80kktzcx.cloudfront.net^
 ||d6swopgiplmy0.cloudfront.net^
 ||d6wzv57amlrv3.cloudfront.net^
@@ -23,10 +24,15 @@
 ||jinxinfoundry.com^
 ||dev.snoopza.com^
 ||device-ac480.appspot.com^
+||r1deepseek-ai.com^
+||r1home.com^
+||senior-safety-189010.firebaseio.com^
+||senseye.spymasterpro.com^
 
 ! --- [Nội dung người lớn] ---
 ||40-2-60.co.uk^
 ||40plusengeil.nl^
+||interracialcupid.com^
 
 ! --- [Spam & Junk Ads] ---
 ||megapush.com^
