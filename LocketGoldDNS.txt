@@ -1,5 +1,7 @@
-||sandbox.itunes.apple.com
-||api.revenuecat.com
-||oy24bn-skadsdkless.appsflyersdk.com
-||oy24bn-inapps.appsflyersdk.com
-||oy24bn-launches.appsflyersdk.com
+||sandbox.itunes.apple.com^
+||api.revenuecat.com^
+||oy24bn-skadsdkless.appsflyersdk.com^
+||oy24bn-inapps.appsflyersdk.com^
+||oy24bn-launches.appsflyersdk.com^
+||api.locketcamera.com/changeProfileInfo^
+||api2.amplitude.com^
