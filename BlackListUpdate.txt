@@ -1,9 +1,14 @@
 ! --- [Quảng cáo & Truyền thông] ---
 ||an.facebook.com^
-||novaon.net^
 ||qc.coccoc.com^
+||cmp.onepeloton.com^
+||cmp.parkers.co.uk^
+||cmp.railmagazine.com^
+||cmp.redge.media^
+||novaon.net^
 
-! --- [Theo dõi & Analytics] ---
+! --- [Theo dõi / Analytics] ---
+||www.googleadservices.com^
 ||googleadservices.com^
 ||graph.facebook.com^
 ||analytics.tiktok.com^
@@ -16,6 +21,7 @@
 ||d6z72aalekwc3.cloudfront.net^
 
 ! --- [Phishing & Mã độc] ---
+||malware.testcategory.com^
 ||amtso.org^
 ||wicar.org^
 ||2giga.link^
@@ -29,17 +35,29 @@
 ||senior-safety-189010.firebaseio.com^
 ||senseye.spymasterpro.com^
 
-! --- [Nội dung người lớn] ---
+! --- [Nội dung người lớn / hẹn hò] ---
+||hallokoko.com^
+||happn.com^
 ||40-2-60.co.uk^
 ||40plusengeil.nl^
 ||interracialcupid.com^
 
-! --- [Spam & Junk Ads] ---
+! --- [Spam / Junk Ads] ---
+||adsterra.com^
 ||megapush.com^
 ||shrinkme.io^
 ||ouo.io^
 ||exe.io^
 ||cutt.ly^
-||adsterra.com^
 ||pushowl.com^
 ||pushpro.co.za^
+
+! --- [Telemetry / phần mềm] ---
+||vortex.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+||v10.events.data.microsoft.com^
+||metrics.icloud.com^
+||xp.apple.com^
+||supportmetrics.apple.com^
+||supportmetrics.v.aaplimg.com^
+||weather-analytics-events.apple.com^
