@@ -1,8 +1,6 @@
-// SoundCloud Go+ Unlock Script
+
 var body = $response.body;
 var obj = JSON.parse(body);
-
-// Cập nhật thông tin gói "SoundCloud Go+"
 obj.plan = {
     "vendor": "apple",
     "id": "high_tier",
@@ -13,7 +11,6 @@ obj.plan = {
     "plan_name": "SoundCloud Go+"
 };
 
-// Kích hoạt các tính năng cao cấp
 obj.features = [
     {
         "name": "offline_sync",
@@ -61,7 +58,5 @@ obj.features = [
         "plans": []
     }
 ];
-
-// Chuyển đổi đối tượng thành JSON và gửi phản hồi
 body = JSON.stringify(obj);
 $done({ body });
