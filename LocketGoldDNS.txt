@@ -5,3 +5,7 @@
 ||oy24bn-launches.appsflyersdk.com^
 ||api.locketcamera.com/changeProfileInfo^
 ||api2.amplitude.com^
+||serverstatus.apple.com^
+||noti-asia.adsmoloco.com^
+||sdkopmetrics-asia.dsp-api.moloco.com^
+||sdkapi.dsp-api.moloco.com^
