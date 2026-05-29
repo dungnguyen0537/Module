@@ -3,7 +3,6 @@
 ||oy24bn-skadsdkless.appsflyersdk.com^
 ||oy24bn-inapps.appsflyersdk.com^
 ||oy24bn-launches.appsflyersdk.com^
-||api.locketcamera.com/changeProfileInfo^
 ||api2.amplitude.com^
 ||serverstatus.apple.com^
 ||noti-asia.adsmoloco.com^
